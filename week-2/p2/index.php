@@ -9,11 +9,11 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
         <!-- Icons -->
         <!-- Microsoft recommends 16x16, 32x32 and 48x48 -->
-        <link rel="shortcut icon" href="/path/to/icons/favicon.ico">
+        <link rel="shortcut icon" href="path/to/icons/favicon.ico">
         <!-- Preload -->
-        <link rel='preload' href='/public/css/main.css' as='style'>
+        <link rel='preload' href='public/css/main.css' as='style'>
         <!-- CSS -->
-        <link rel='stylesheet' href='/public/css/main.css'>
+        <link rel='stylesheet' href='public/css/main.css'>
     </head>
     <body>
         <div class='page__container'>
@@ -36,7 +36,7 @@
                     </aside>
                     <div class='product__list layout__row'>
                         <div class='product__card'>
-                            <img class='product__card__image' src='/public/img/xiaomi_xiaomi_air_purifier_3h.jpeg'>
+                            <img class='product__card__image' src='public/img/xiaomi_xiaomi_air_purifier_3h.jpeg'>
                             <div class='product__card__body'>
                                 <h2>Mi Air Purifier 3H</h2>
                                 <div class='product__card__body__content'>
@@ -48,7 +48,7 @@
                             </footer>
                         </div>
                         <div class='product__card'>
-                            <img class='product__card__image' src='/public/img/xiaomi_xiaomi_air_purifier_3h.jpeg'>
+                            <img class='product__card__image' src='public/img/xiaomi_xiaomi_air_purifier_3h.jpeg'>
                             <div class='product__card__body'>
                                 <h2>Mi Air Purifier 3H</h2>
                                 <div class='product__card__body__content'>
@@ -60,7 +60,7 @@
                             </footer>
                         </div>
                         <div class='product__card'>
-                            <img class='product__card__image' src='/public/img/xiaomi_xiaomi_air_purifier_3h.jpeg'>
+                            <img class='product__card__image' src='public/img/xiaomi_xiaomi_air_purifier_3h.jpeg'>
                             <div class='product__card__body'>
                                 <h2>Mi Air Purifier 3H</h2>
                                 <div class='product__card__body__content'>
